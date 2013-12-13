@@ -1,4 +1,3 @@
-grunt-dba
-=========
+# grunt-dba
 
-Grunt plugin for the dba code quality plugin
+Grunt plugin for the dba code quality module.

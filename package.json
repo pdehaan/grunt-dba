@@ -1,0 +1,36 @@
+{
+  "name": "grunt-dba",
+  "version": "0.1.0",
+  "description": "Grunt plugin for the dba code quality module.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pdehaan/grunt-dba.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "dba"
+  ],
+  "author": "Peter deHaan (http://nodeexamples.com/)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/pdehaan/grunt-dba/issues"
+  },
+  "homepage": "https://github.com/pdehaan/grunt-dba",
+  "dependencies": {
+    "dba": "~0.1.0",
+    "lodash.template": "~2.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
